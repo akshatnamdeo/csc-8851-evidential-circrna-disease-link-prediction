@@ -1,5 +1,5 @@
 # Evidential Uncertainty Modeling for circRNA–Disease Prediction  
-### CSC 8851 — Deep Learning (Fall 2025)  
+### CSC 8851 Deep Learning (Fall 2025)  
 ### Final Project Submission  
 **Author:** Akshat Namdeo  
 

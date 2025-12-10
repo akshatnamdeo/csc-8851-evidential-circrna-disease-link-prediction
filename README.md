@@ -24,7 +24,7 @@ The work includes:
 
 ## Repository Structure
 
-### **1. `preprocessing/Preprocessing.ipynb`**  
+### **1. `Preprocessing.ipynb`**  
 Builds the heterogeneous circRNA–disease–gene graph used for all experiments.  
 Implements:
 - circRNA & gene loading  
@@ -34,7 +34,7 @@ Implements:
 - Top-K similarity graph  
 - Final graph dictionary `G`
 
-### **2. `training/Experiment_1.ipynb`**  
+### **2. `Experiment 1.ipynb`**  
 Main training and inference notebook.  
 Contains:
 - R-GCN encoder (Stage A)  
